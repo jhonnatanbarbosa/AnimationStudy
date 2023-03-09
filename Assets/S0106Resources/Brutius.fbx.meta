@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: d243278de7bbc5f4abddbd94c26a9894
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 8cb660551e7f5464cba4e7a20394d470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 8ea7948564a4d9f459998d3af8fd62b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hatmat
+    second: {fileID: 2100000, guid: 341248357bf6b2c41a8e02555d85ea5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: 23a3bac88285ad7428f850e81d940bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: ef0231b3bde1bb444a203837567d6db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 8d0585ae0567d0e46bfe2433e86342ad, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Body_Diffuse
+    second: {fileID: 2800000, guid: 0abaaffd46f17284fab49df7ff078af5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Body_Gloss
+    second: {fileID: 2800000, guid: d1730230a43d6db40938506cd03b48f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Body_Normal
+    second: {fileID: 2800000, guid: 596204be6c54aec4dac1f52ff5254bf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Body_Opacity
+    second: {fileID: 2800000, guid: 1bf61acbbe7ba19459af011ba5d97598, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Body_Specular
+    second: {fileID: 2800000, guid: 427eeca78cddb2e47a423fd692114f46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 1748089434acecf42922762cb5b49d10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Bottom_Gloss
+    second: {fileID: 2800000, guid: 56a336aa36d5002478ea05644789942f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Bottom_Normal
+    second: {fileID: 2800000, guid: e81a3e6cf82e26d42890785fed9b042e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Bottom_Opacity
+    second: {fileID: 2800000, guid: c634a701a8ac60e44a915c4137340906, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Bottom_Specular
+    second: {fileID: 2800000, guid: b9afd174ae09a0446a3f2b327f271046, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Hat_Diffuse
+    second: {fileID: 2800000, guid: 0084a0632f2ae7f469321fa7125876a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Hat_Gloss
+    second: {fileID: 2800000, guid: 6a7d34ef0c67e124fa816b086c54b861, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Hat_Normal
+    second: {fileID: 2800000, guid: 9d248f29bacbea44686ccfdfb47cb8c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Hat_Opacity
+    second: {fileID: 2800000, guid: 670422ed22ce03d4ba9f287f0c4a981c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Hat_Specular
+    second: {fileID: 2800000, guid: 2177ee68640f22a4d9130e60114bfccd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Moustache_Diffuse
+    second: {fileID: 2800000, guid: 21e3b125f8c96b141ab5dffdc779db9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Moustache_Gloss
+    second: {fileID: 2800000, guid: f3575d6cab7762f44bbd80a7bb29c0b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Moustache_Normal
+    second: {fileID: 2800000, guid: d043eefc5d2e81d4894365fc4e8489ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Moustache_Opacity
+    second: {fileID: 2800000, guid: a64baa34d2b54434a8e13210aa0eddf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Moustache_Specular
+    second: {fileID: 2800000, guid: c0103529c74c3d444a2a4a5c450e6805, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 5a557b279ea548348b23f95df6e11732, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Shoes_Gloss
+    second: {fileID: 2800000, guid: 88457e1c3627aca47a2e2e96c5fdf7eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Shoes_Normal
+    second: {fileID: 2800000, guid: 4b5ed24e06c1bca4dac46776378e578d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Shoes_Opacity
+    second: {fileID: 2800000, guid: ca744aebf03c0ac4f9e78cbdbb013c87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Shoes_Specular
+    second: {fileID: 2800000, guid: 0a170e43933f57f42ba24ec883b1034f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Top_Diffuse
+    second: {fileID: 2800000, guid: 496c4ad029e5aa34282d4837d4e2d425, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Top_Gloss
+    second: {fileID: 2800000, guid: bb5239d140298d8469ac6031db8dcaa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Top_Normal
+    second: {fileID: 2800000, guid: 1a7533b2e44045d41807f1703a73a639, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Top_Opacity
+    second: {fileID: 2800000, guid: a4d1c916ce1a8af44a375a6d9f6277fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brutius_Top_Specular
+    second: {fileID: 2800000, guid: d53db125ca441ed42bd2189d11cdf033, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
